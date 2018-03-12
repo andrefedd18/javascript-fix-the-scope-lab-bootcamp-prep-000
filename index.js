@@ -6,8 +6,6 @@ function myAnimal() {
 
 function yourAnimal() {
    return animal
-   return dog ; 
-   parseInt(cat);
 }
 
 function add2(n) {
