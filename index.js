@@ -5,8 +5,8 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-   return 'dog'; 
-   return 'cat';
+   var animal
+   return animal()
 }
 
 function add2(n) {
